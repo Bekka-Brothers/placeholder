@@ -3,7 +3,7 @@ export default defineI18nLocale(async (locale) => {
     LAYOUT: {
       footer: {
         rights: "جميع الحقوق محفوظة",
-        bekka: "الإخوة بكة",
+        bekka: "الإخوة بيكا",
       },
     },
     HOME: {
